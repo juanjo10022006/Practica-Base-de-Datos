@@ -1,16 +1,31 @@
 contenidoId,nombre,tipo,descripcion,duracion,anioEstreno,calificacionPromedio
 C1,El Origen,Película,"Un ladrón que roba secretos mediante la tecnología de los sueños.",148,2010,4.7
 C2,Stranger Things,Serie,"Un grupo de niños investiga sucesos paranormales en su pueblo.",50,2016,4.5
-C3,Capítulo 1 - La desaparición, Episodio,"Will desaparece misteriosamente al volver a casa.",47,2016,4.6
+C3,Capítulo 1 - La desaparición,Episodio,"Will desaparece misteriosamente al volver a casa.",47,2016,4.6
 C4,La La Land,Película,"Dos artistas comparten sueños de éxito en Los Ángeles.",128,2016,4.3
 C5,Breaking Bad,Serie,"Un profesor de química se convierte en fabricante de metanfetamina.",47,2008,4.9
-C6,Temporada 1 - Episodio 1, Episodio,"Walter White comienza su doble vida criminal.",58,2008,4.8
+C6,Temporada 1 - Episodio 1,Episodio,"Walter White comienza su doble vida criminal.",58,2008,4.8
 C7,Parasite,Película,"Una familia pobre se infiltra en la vida de una familia rica.",132,2019,4.6
 C8,The Crown,Serie,"Drama histórico sobre el reinado de la reina Isabel II.",60,2016,4.4
-C9,Temporada 2 - Episodio 3, Episodio,"Las tensiones en la familia real escalan en crisis estatal.",58,2017,4.2
+C9,Temporada 2 - Episodio 3,Episodio,"Las tensiones en la familia real escalan en crisis estatal.",58,2017,4.2
 C10,Interstellar,Película,"Exploración espacial para salvar la humanidad tras el colapso de la Tierra.",169,2014,4.8
 C11,Chernobyl,Serie,"Recreación dramática del desastre nuclear de 1986.",60,2019,4.9
-C12,Capítulo 4 - La Guardia, Episodio,"Los bomberos luchan contra el fuego infernal en la central.",57,2019,4.7
+C12,Capítulo 4 - La Guardia,Episodio,"Los bomberos luchan contra el fuego infernal en la central.",57,2019,4.7
 C13,El Padrino,Película,"La saga de la familia Corleone en el mundo de la mafia.",175,1972,4.9
 C14,Friends,Serie,"Seis amigos navegan la vida y el amor en Nueva York.",22,1994,4.8
-C15,Temporada 5 - Episodio 14, Episodio,"Ross y Rachel tienen un malentendido en su boda.",22,1999,4.5
+C15,Temporada 5 - Episodio 14,Episodio,"Ross y Rachel tienen un malentendido en su boda.",22,1999,4.5
+C16,Stranger Things S1:E02,Episodio,"El grupo investiga la desaparición de Will y descubre una puerta secreta.",50,2016,4.6
+C17,Stranger Things S1:E03,Episodio,"Nancy y Jonathan buscan pistas mientras Mike y Eleven intentan comunicarse con el otro lado.",51,2016,4.7
+C18,Stranger Things S1:E04,Episodio,"El monstruo ataca el laboratorio y aparece un nuevo personaje con información vital.",49,2016,4.8
+C19,Stranger Things S1:E05,Episodio,"Los amigos diseñan un plan de rescate y ocurren sucesos inesperados.",52,2016,4.5
+C20,Breaking Bad S1:E02,Episodio,"Jesse y Walter comprenden las implicaciones morales de su nueva 'empresa'.",47,2008,4.8
+C21,Breaking Bad S1:E03,Episodio,"Walt se enfrenta a un rival mientras Skyler muestra sospechas.",49,2008,4.7
+C22,The Crown S1:E02,Episodio,"La reina Isabel consolida su estilo de liderazgo tras su boda.",58,2016,4.3
+C23,The Crown S1:E03,Episodio,"La familia real lidia con una crisis política internacional.",59,2016,4.4
+C24,The Crown S2:E01,Episodio,"Se introduce un nuevo primer ministro y cambian las dinámicas reales.",60,2017,4.2
+C25,Friends S1:E02,Episodio,"Ross intenta animar a Rachel tras su mala racha amorosa.",22,1994,4.7
+C26,Friends S1:E03,Episodio,"Chandler lidia con una broma que sale mal en la oficina.",23,1994,4.6
+C27,Chernobyl S1:E02,Episodio,"La respuesta inicial al desastre es insuficiente y se profundiza en las causas.",60,2019,4.9
+C28,Chernobyl S1:E03,Episodio,"Se revelan las consecuencias biológicas de la radiación.",60,2019,4.8
+C29,Capítulo 1 - El Regreso,Episodio,"El pueblo empieza a notar efectos extraños tras la reapertura del portal.",48,2017,4.3
+C30,Temporada 5 - Episodio 15,Episodio,"La familia repara sus diferencias con un gran gesto final.",22,1999,4.4

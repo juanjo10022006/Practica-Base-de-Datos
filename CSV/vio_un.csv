@@ -1,4 +1,4 @@
-usuarioId,contenidoId,fechaVio,minutosReproducidos,finalizado
+usuarioId,contenidoId,fechaVisualizacion,minutosReproducidos,finalizado
 U1,C1,2024-02-15,148,true
 U1,C3,2024-02-16,30,false
 U2,C2,2024-03-01,50,true
